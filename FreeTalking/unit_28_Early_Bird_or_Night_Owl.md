@@ -3,7 +3,18 @@
 ## Vocabulary
 1. widely recognized: 널리 알려진
 2. interpretation: 해석, 이해
+```
+해석, 통역: an explanation or opinion of what something means
+The dispute is based on two widely differing interpretations of the law.
+The rules are vague and open to interpretation. (vague: 막연한)
+It is difficult for many people to accept a literal interpretation of the Bible.
+```
 3. misleading: 오해할 만한
+```
+오해할 만한: causing someone to believe something that is not true
+misleading information/statements
+Adverts must not create a misleading impression.
+```
 
 ## Wrong Expression => Make it correct
 ```
