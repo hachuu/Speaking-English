@@ -4,7 +4,7 @@
 1. consideration: 배려
 - 3가지 의미
 ```
-고려:something that you have to think about when you make decisions
+고려: something that you have to think about when you make decisions
 Safety is our main consideration.
  
 생각: careful thought and attention
