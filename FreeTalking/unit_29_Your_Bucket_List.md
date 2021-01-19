@@ -53,6 +53,19 @@ Freedom of speech is a cherished (= carefully protected) right in this country.
 ```
 
 ## Wrong Expression => Make it correct
+```
+I'm software developer.
+=> I'm a software developer.
+
+I don't know.
+=> I'm uncertain. (SIMILAR)
+
+I buy my house for my family.
+=> I will buy a house for my family.
+
+Baking is hard thing.
+=> Baking is challenging to learn.
+```
 
 ## Make senetence (before correction)
 - Q. Do you have a bucket list for your life? Tell me three things from your bucket list (e.g. dream job, an around-the-world trip...etc).
