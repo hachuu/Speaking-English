@@ -22,7 +22,23 @@ able to think clearly or make good decisions because of not being influenced by 
 ```
 
 ## Wrong Expression => Make it correct
+```
+Good habits is I'm a diligent person.
+=> My good habit is that I'm a diligent person.
 
+I want to keep my promise with my family or friend.
+=> I want to keep my promise to my family or friends.
+
+Kids are always listening what parents say.
+=> Kids are always listening to what their parents say.
+
+Kids say weird word.
+=> Kids say weird words.
+
+I want to keep my promise with my family or friend.
+=> I want to live up to my promise to my family or friends. (SIMILAR)
+live up to: '~의 기대를 충족시키다', '~와 일치하게 살다', '기대에 부응하다'
+```
 
 ## Make senetence (before correction)
 - Q. What does it mean by "know yourself"?Tell me your good and bad habits, one for each.
@@ -30,3 +46,7 @@ able to think clearly or make good decisions because of not being influenced by 
 - A. It seems like the expression of this question, knowing my good and bad habits is "know myself".  
 My one of good habits is diligence. I hate that don't keeping the promise and late for our promise by appearing in the place what we have to meet. 
 My one of bad habits is dispassionate. This is the baddest habit to get rid of  what I have to.
+
+- Q. What bad habits bother you the most?
+
+- A. I indulge in my thoughts before falling asleep. (overthinking)
