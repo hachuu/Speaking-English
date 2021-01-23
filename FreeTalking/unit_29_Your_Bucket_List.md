@@ -71,3 +71,7 @@ Baking is hard thing.
 - Q. Do you have a bucket list for your life? Tell me three things from your bucket list (e.g. dream job, an around-the-world trip...etc).
 
 - A. Although I don't think of my bucket lists. But when it comes to thinking of the first of bucket lists, That is I will work until I retire my job.
+
+```
+I don't think of my bucket lis. But when I comes to thinking of the first item in the bucket list, that is I will work until I retire from my job.
+```

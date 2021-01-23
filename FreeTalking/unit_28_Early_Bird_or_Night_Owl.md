@@ -37,3 +37,13 @@ Yes, it affects the quality of my work.
 - A. I have a routine to do in common. Because I am an employee of my company, I have to commute on time everyday.
 That's why I think that I am an early bird.
 Because my company is far from my house, So I have to wake up early to be ready to go to the company.
+
+```
+I have a routine to do as usual. Because I am an employee of my company, I have to commute on time every day. That's why I think that I am an early bird. Because my company is far from my house, I have to wake up early to be ready to go to the company.
+```
+
+### everyday vs Every day
+- everyday(adjective): 매일의
+    - Those are my everyday activities.
+- Every day(adverb): 매일
+    - I study every day.

@@ -45,7 +45,12 @@ live up to: '~의 기대를 충족시키다', '~와 일치하게 살다', '기�
 
 - A. It seems like the expression of this question, knowing my good and bad habits is "know myself".  
 My one of good habits is diligence. I hate that don't keeping the promise and late for our promise by appearing in the place what we have to meet. 
-My one of bad habits is dispassionate. This is the baddest habit to get rid of  what I have to.
+My one of bad habits is dispassionate. This is the worst habit to get rid of  what I have to.
+
+```
+It seems like the expression "know yourself" means to know my good and bad habits. One of my good habits is diligence.
+I would hate it if I don't keep my promise and if I'd be late for appointments. One of my bad habits is lacking passion. This is the worst habit that I have to get rid of.
+```
 
 - Q. What bad habits bother you the most?
 
