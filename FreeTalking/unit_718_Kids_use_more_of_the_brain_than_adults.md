@@ -21,6 +21,7 @@ This brain duality could help explain why children heal faster from brain injuri
 
 ## summary
 - The Scientists have been studying the interaction of the left side and right side of the brain.
+- While children use both side the brain to understand language, adults only use the left side of the brain.
 
 ## Wrong Expression => Make it correct
 
