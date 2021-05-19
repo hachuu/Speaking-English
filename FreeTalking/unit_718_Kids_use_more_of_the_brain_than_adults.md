@@ -15,9 +15,16 @@
 This process is gradual over time and finishes up around 19 years of age.
 =>
 
+I make success to gradual development by studying hard.
+BETTER I succeed in gradual development by studying hard.
+
+
 2. duality
 This brain duality could help explain why children heal faster from brain injuries.
 =>
+
+My character is duality.
+BETTER My character has duality.
 
 ## summary
 - The Scientists have been studying the interaction of the left side and right side of the brain.
@@ -25,7 +32,8 @@ This brain duality could help explain why children heal faster from brain injuri
 
 ## Wrong Expression => Make it correct
 
-
+I think it is very easy to get something new from studying.
+BETTER I easily learn something new from studying. (SIMILAR)
 ## Comprehension Question
 1. Which side of the brain do adults use when they understand language?
 2. How did the researchers use technology?
