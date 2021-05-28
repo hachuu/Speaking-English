@@ -7,4 +7,4 @@ Speaking Practice
 4. [Day 4](https://github.com/hachuu/Speaking-English/blob/main/FreeTalking/unit_31_The_Most_Interesting_Job.md) Unit 31. [Job]The Most Interesting Job
 5. [Day_5](https://github.com/hachuu/Speaking-English/blob/main/FreeTalking/unit_718_Kids_use_more_of_the_brain_than_adults.md) Unit 718. Kids use more of the brain than adults
 6. [Day_6](https://github.com/hachuu/Speaking-English/blob/main/FreeTalking/Unit_719._Australia_and_New_Zealand_open_travel_bubble.md) Unit 719. Australia and New Zealand open travel bubble
-7. [Day_7]
+7. [Day_7]() Unit 721. Let’s be someone nature welcomes
