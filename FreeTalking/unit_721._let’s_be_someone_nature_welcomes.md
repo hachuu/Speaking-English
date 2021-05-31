@@ -29,3 +29,8 @@ My feet are sweat so I can't walk for a long time.
 
 BETTERMy feet are sweaty so I can't walk for a long time.
 ```
+
+```
+hit the book : study
+hit the sack : go to sleep
+```
