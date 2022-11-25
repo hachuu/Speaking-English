@@ -1,0 +1,7 @@
+# 문장 정리
+- There are three rooms in my apartment. **Among them** my favorite room is the living room. 그 중에서
+- I spend **most of my free time** in the living room watching TV. 나의 대부분의 여가시간
+- **On the weekend**, I do the laundry, vacuum the house, and take out the trash. 주말에
+- **When I was a kid**, my family lived in a **two-stroy house** **in the countryside.** 어릴 때 / 2층 집 / 시골에서
+- There was a mountain **nearby**, and I **used to go** hiking with my friends after school. 근처에 / ~하곤 했다.
+- I enjoy the shopping **so I go shopping** **at least once of week**. ~하기 때문에 so ~ 한다. / 적어도 1주일에 
