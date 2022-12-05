@@ -5,3 +5,10 @@
 - **When I was a kid**, my family lived in a **two-stroy house** **in the countryside.** 어릴 때 / 2층 집 / 시골에서
 - There was a mountain **nearby**, and I **used to go** hiking with my friends after school. 근처에 / ~하곤 했다.
 - I enjoy the shopping **so I go shopping** **at least once of week**. ~하기 때문에 so ~ 한다. / 적어도 1주일에 
+
+
+Q. I would like to know where you live. Describe your house in detail.
+A. 
+
+Q. You indicated that you are responsible for doing household chores. Tell me about the household chores that you nomally do.
+A.
