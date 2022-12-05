@@ -8,7 +8,10 @@
 
 
 Q. I would like to know where you live. Describe your house in detail.
-A. 
+A. I live in a high rise apartment with a balcony overlooking the city.
 
 Q. You indicated that you are responsible for doing household chores. Tell me about the household chores that you nomally do.
-A.
+A. 
+
+- that you can think of: 너가 알다시피
+- here and there and like everywhere
