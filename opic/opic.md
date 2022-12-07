@@ -15,3 +15,14 @@ A.
 
 - that you can think of: 너가 알다시피
 - here and there and like everywhere
+
+
+## 오픽AL 국내여행 (2)
+```
+I love traveling to Busan.
+The place is well known for being well developed, and having many tourist attractions. 
+The main reason I enjoy going there is that it is such an interesting place. 
+Another good thing is that there are many things to do and many things to see.
+I can't wait to head back there. I still have a vivid picture of it.
+I wish I could return to that moment.
+```
