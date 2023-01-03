@@ -38,3 +38,17 @@ I still have a vivid picture of it.
 I wish I could return to that moment.
 ```
 
+## 복문 예제
+1. 일반적이다. => It is normal that ~
+- normal
+- general
+- common
+2. 자주 일컬어 진다.
+- It is often said that
+- It is usually said that
+3. 부인할 수 없다.
+- There is no denying that
+4. 사실이다.
+- It is true that rising a pet takes a lot of money and efforts.
+5. 의심할 나위가 없다.
+- There is no doubt that
