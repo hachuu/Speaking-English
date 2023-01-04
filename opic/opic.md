@@ -52,3 +52,17 @@ I wish I could return to that moment.
 - It is true that rising a pet takes a lot of money and efforts.
 5. 의심할 나위가 없다.
 - There is no doubt that
+
+## 음식 관련 3단 콤보 문제
+```
+Last weekend, I went to the restaurant with some friends.
+We ordered some black pork barbecue which is one of my favorites.
+It's quite different from the ordinary Korean port belly barbecue.
+The meat is jucier, it tastes richer. We pigged out.
+Plus, They grilled the meat so well.
+Knowing how to grill is literally one of the most important parts of cooking.
+They are obviously experts in Korean barbecue. Everything was so perfect.
+We had a great time there.
+I highly recommend anyone who likes Korean barbecue to visit the place
+```
+
