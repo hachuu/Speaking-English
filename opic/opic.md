@@ -66,3 +66,22 @@ We had a great time there.
 I highly recommend anyone who likes Korean barbecue to visit the place
 ```
 
+## 은행 3단 콤보
+```
+I had to go to a bank to get a new One Time Passcode/Pin card a few days ago, because I lost it.
+We need the card to transfer money on a mobile banking app.
+Whenever I do that they require the random number shown on my OTP card.
+Actually I got the card just a week ago, but I couldn't find it.
+It will probably turn up in my bedroom sometime soon.
+It's so small that I easily lose it. That's always annoying.
+It was raining outside and the nearest bank was under construction, so I had to go quite far away. When I finally got to the other bank it was pretty crowded.
+I got the ticket and waited for my number to be called for like half an hour.
+After that I told the bank teller why I came here and she was like,
+'There's $3 additional fee to reissue your OTP. You can only pay in cash.' Oh my god. I didn't have any cash at the time.
+We hardly have cash (or take cash with us),
+because we all use debit or credit cards these days, you know.
+It was such a disaster.
+I ended up coming back home with nothing done.
+I didn't feel like going back so I just gave up and I got it a week later.
+This was one of my terrible experiences at a bank
+```
