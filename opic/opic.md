@@ -67,6 +67,7 @@ I highly recommend anyone who likes Korean barbecue to visit the place
 ```
 
 ## 은행 3단 콤보
+- Problems can occur when you are at the bank. Perhaps you could have forgotten to take your ID with you. Talk about a problem you personally had at a bank. How did you solve that problem?
 ```
 I had to go to a bank to get a new One Time Passcode/Pin card a few days ago, because I lost it.
 We need the card to transfer money on a mobile banking app.
