@@ -86,3 +86,16 @@ I ended up coming back home with nothing done.
 I didn't feel like going back so I just gave up and I got it a week later.
 This was one of my terrible experiences at a bank
 ```
+
+### 병원 롤플레잉
+```
+Hi there. My name is hayoung
+I visited the doctor a month ago.
+Well I've had a cold fore more than a week.
+My cough is getting worse.
+Could I see the doctor at 12 tomorrow?
+Oh she's fully booked?
+Is there anything abailable after 6 pm?
+7 pm would be great.
+Thanks for your time. Bye.
+```
