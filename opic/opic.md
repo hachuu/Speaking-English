@@ -104,12 +104,11 @@ Thanks for your time. Bye.
 ```
 - B is mine.
 A: Hello, Can I help you?
-B : Yes, you can. I’d like to return these shoes. 
-I just bought them last week but they’re already falling apart.
+B : Yes, you can. I’d like to return these shoes. I just bought them last week but they’re already falling apart.
 A : Oh I’m sorry to hear that.
 B : It’s really a shame. They looked great when I tried them on.
 A : We have some similar styles, would you like a replacement pair?
-B: No I just a refund.
+B : No I just a refund.
 A :  Okay do you have the receipt for any other proof of purchase?
 B : Actually, I think I lost the receipt.
 A : Okay, a bank statement would be fine, but probably you don’t have that with you, do you?
