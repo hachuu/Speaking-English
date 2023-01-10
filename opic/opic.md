@@ -122,3 +122,17 @@ B : Sure, no problem.
 A : Okay, here you go.
 B : Great, thanks, you’ve been very helpful.
 ```
+
+### 11~13 롤플레잉 만능 답변
+```
+Actually, I'm so sorry. 
+I will not able to make it to your birthday.
+but I will totally make it up to you.
+
+You can call me anytime and I will get right back to you.
+Text  me anytime I will text you.
+You can call me on my cell phone.
+Let me know, if anything happens.
+A thousands apologies.
+I'll buy you a cup of coffee.
+```
