@@ -139,7 +139,20 @@ I'll buy you a cup of coffee.
 
 ### 대체 문구 답변
 ```
-like => am a big fan of / be addicted to
+like => am a big fan of / be addicted to / am a huge /
 I am a big fan of ~
 I am addicted to ~
+I am a huge coffee lover
+```
+
+```
+과거 회상 => If I remember correctly.
+내 스타일 아님 => Something is not my thing. / Books are not my thing. / Spicy food is not my thing.
+당황한 느낌을 영어로 표현할 때 => I've never thought about it, but I think..
+갑자기 무언가 떠올랐을 때 => come to mind (떠오르다, 생각이 나다) / Immediately come to mind. / Oh my old mattress immediately comes to mind.
+과거와 현재를 비교할 때 쓰기 좋은 표현 => It has changed a lot. /  I would say it has changed a lot since using the internet became so popular.
+스트레스를 풀다 => relieve(release) my stress / It helps me relieve(release) my stress. / It's a great way to relieve my stress / Listening to music helps me relieve my stress. Listening to music helps me stressed out.
+어렵지만 재밌다 => It's very difficult, but so much fun.
+가장 좋아하는 것 (주어) => What I like the most about something is / What I like the most about this city is the beautiful river that runs through Seoul.
+복잡한 답변 내용을 마무리 할 때 쓰는 표현 => It's complicated / It's complicated. That's all I know about that issue.
 ```
