@@ -136,3 +136,10 @@ Let me know, if anything happens.
 A thousands apologies.
 I'll buy you a cup of coffee.
 ```
+
+### 대체 문구 답변
+```
+like => am a big fan of / be addicted to
+I am a big fan of ~
+I am addicted to ~
+```
